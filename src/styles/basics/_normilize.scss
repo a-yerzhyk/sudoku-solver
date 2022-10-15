@@ -29,22 +29,3 @@ body {
     -moz-transition: padding .5s ease;
     transition: padding .5s ease;
 }
-
-#app {
-  display: inline;
-  position: relative;
-  height: 100%;
-}
-
-#header {
-  text-align: center;
-  width: 100%;
-}
-
-#container {
-  display: flex;
-  margin: 0 auto;
-  padding-top: 20px;
-  max-width: 1000px;
-  height: auto;
-}
